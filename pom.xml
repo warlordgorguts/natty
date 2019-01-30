@@ -1,24 +1,23 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.joestelmach</groupId>
+  <groupId>com.rogmax</groupId>
   <artifactId>natty</artifactId>
   <packaging>jar</packaging>
-  <version>0.14-SNAPSHOT</version>
-  <name>Natty Date Parser</name>
+  <version>0.14</version>
+  <name>Natty Date Parser (New format)</name>
   <description>natural language date parser</description>
-  <url>http://natty.joestelmach.com</url>
-  
+
   <licenses>
     <license>
       <name>MIT License</name>
       <url>LICENSE</url>
     </license>
   </licenses>
-  
+
   <scm>
-    <connection>scm:git:git@github.com:joestelmach/natty.git</connection>
-    <url>scm:git:git@github.com:joestelmach/natty.git</url>
-    <developerConnection>scm:git:git@github.com:joestelmach/natty.git</developerConnection>  
+    <connection>scm:git:git@gitlab.com:rogmax/nattydateparser.git</connection>
+    <url>scm:git:git@github.com:rogmax/nattydateparser.git</url>
+    <developerConnection>scm:git:git@github.com:rogmax/nattydateparser.git</developerConnection>
   </scm>
   
   <developers>
